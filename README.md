@@ -1,4 +1,4 @@
-# Movie App Android
+# Movie Time
 ![HeaderImage](github_images/header.png) 
 
 ## Introduction
